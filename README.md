@@ -1,16 +1,16 @@
-## Hi there 👋
+# boas vinda ao meu perfil🍁
 
-<!--
-**atekabruna/atekabruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é bruna santos
 
-Here are some ideas to get you started:
+-estou estudando na [ALURA](https://www.alura.com.br/) 
+-estou desenvolvendo na linguagem Java Script 
+-ultilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#Você pode entrar em contato comigo😝
+
+0000108591303xsp@al.educacao.sp.gov.br
+
+@atekabruna 
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndpOGNqMzl4anBraWw3bGlidHpyOHQwd3M3NnVuc2M4cmM2bW4zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MoaQ9bwKYeWJ6qynbz/giphy.webp)
